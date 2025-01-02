@@ -25,17 +25,17 @@ def laser_callback(msg):
         
         rospy.loginfo(f"Pillar detected at(x: {x_position:.2f}, y: {y_position:.2f})")
         
-    def stop_robot():
-        global pub
-        twist = Twist()
-        pub.publish(twist)
+def stop_robot():
+    global pub
+    twist = Twist()
+    pub.publish(twist)
         
-    if __name__== '__name__':
+    if __name__== '__main__':
         try:
             rospy.init_node('pillar_detector')
             
             pub=rospy.Publisher('/cmd_vel',Twist, queue_size=10)
-            rospy.Subscriber('/rslidar_points', LaserScan, laser_callback)
+            rospy.Subscriber('/scan', LaserScan, laser_callback)
             
             rospy.spin()
         except rospy.ROSInterruptException:
