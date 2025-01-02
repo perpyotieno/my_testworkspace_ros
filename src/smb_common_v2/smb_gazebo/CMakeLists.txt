@@ -9,6 +9,7 @@ set(PACKAGE_DEPENDENCIES
 find_package(catkin REQUIRED
   COMPONENTS
     ${PACKAGE_DEPENDENCIES}
+
 )
 
 find_package(gazebo REQUIRED)

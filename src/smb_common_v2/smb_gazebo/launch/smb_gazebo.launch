@@ -90,6 +90,11 @@
             concurrency_level: 1
         </rosparam>
   </node>
+  
+  <!-- To make the pillar more visible  -->
+  <param name="laser_scan_min_height" value="-0.2"/>
+  <param name="laser_scan_max_height" value="1.0"/>
+
 
 
   <include file="$(find smb_control)/launch/control.launch">
