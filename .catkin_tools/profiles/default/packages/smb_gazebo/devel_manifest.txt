@@ -1,0 +1,6 @@
+smb_common_v2/smb_gazebo
+/home/perpetua/my_testworkspace_ros/devel/.private/smb_gazebo/cmake.lock /home/perpetua/my_testworkspace_ros/devel/./cmake.lock
+/home/perpetua/my_testworkspace_ros/devel/.private/smb_gazebo/share/smb_gazebo/cmake/smb_gazeboConfig.cmake /home/perpetua/my_testworkspace_ros/devel/share/smb_gazebo/cmake/smb_gazeboConfig.cmake
+/home/perpetua/my_testworkspace_ros/devel/.private/smb_gazebo/share/smb_gazebo/cmake/smb_gazeboConfig-version.cmake /home/perpetua/my_testworkspace_ros/devel/share/smb_gazebo/cmake/smb_gazeboConfig-version.cmake
+/home/perpetua/my_testworkspace_ros/devel/.private/smb_gazebo/lib/libodometry_source_plugin.so /home/perpetua/my_testworkspace_ros/devel/lib/libodometry_source_plugin.so
+/home/perpetua/my_testworkspace_ros/devel/.private/smb_gazebo/lib/pkgconfig/smb_gazebo.pc /home/perpetua/my_testworkspace_ros/devel/lib/pkgconfig/smb_gazebo.pc

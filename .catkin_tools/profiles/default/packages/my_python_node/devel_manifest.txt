@@ -1,0 +1,5 @@
+my_python_node
+/home/perpetua/my_testworkspace_ros/devel/.private/my_python_node/cmake.lock /home/perpetua/my_testworkspace_ros/devel/./cmake.lock
+/home/perpetua/my_testworkspace_ros/devel/.private/my_python_node/share/my_python_node/cmake/my_python_nodeConfig.cmake /home/perpetua/my_testworkspace_ros/devel/share/my_python_node/cmake/my_python_nodeConfig.cmake
+/home/perpetua/my_testworkspace_ros/devel/.private/my_python_node/share/my_python_node/cmake/my_python_nodeConfig-version.cmake /home/perpetua/my_testworkspace_ros/devel/share/my_python_node/cmake/my_python_nodeConfig-version.cmake
+/home/perpetua/my_testworkspace_ros/devel/.private/my_python_node/lib/pkgconfig/my_python_node.pc /home/perpetua/my_testworkspace_ros/devel/lib/pkgconfig/my_python_node.pc

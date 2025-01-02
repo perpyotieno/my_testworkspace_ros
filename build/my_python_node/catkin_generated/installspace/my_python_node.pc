@@ -1,0 +1,8 @@
+prefix=/home/perpetua/my_testworkspace_ros/install
+
+Name: my_python_node
+Description: Description of my_python_node
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

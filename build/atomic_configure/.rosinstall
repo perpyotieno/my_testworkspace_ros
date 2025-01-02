@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/perpetua/my_testworkspace_ros/devel/setup.sh

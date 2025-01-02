@@ -1,0 +1,2 @@
+my_python_node:smb_common_v2/smb_control:smb_common_v2/smb_description:smb_common_v2/smb_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/perpetua/my_testworkspace_ros/devel -DCMAKE_INSTALL_PREFIX=/home/perpetua/my_testworkspace_ros/install -G Unix Makefiles

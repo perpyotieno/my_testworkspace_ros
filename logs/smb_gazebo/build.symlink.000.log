@@ -1,0 +1,4 @@
+Symlinking /home/perpetua/my_testworkspace_ros/devel/share/smb_gazebo/cmake/smb_gazeboConfig.cmake
+Symlinking /home/perpetua/my_testworkspace_ros/devel/share/smb_gazebo/cmake/smb_gazeboConfig-version.cmake
+Symlinking /home/perpetua/my_testworkspace_ros/devel/lib/libodometry_source_plugin.so
+Symlinking /home/perpetua/my_testworkspace_ros/devel/lib/pkgconfig/smb_gazebo.pc
